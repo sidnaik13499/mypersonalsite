@@ -1,0 +1,186 @@
+/************************Tag Section *****************************************/
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #66BFBF;
+  margin:50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color:#66BFBF;
+  margin:0;
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+  margin:0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+hr{
+  width:5%;
+  border-style: none;
+  border-top-style:dotted;
+  border-color: darkgrey;
+  border-width: 5px;
+  margin: 50px auto;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 2;
+}
+
+
+
+
+/************************Class Section ****************************************/
+
+
+/************************Top-Container ****************************************/
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.cloud-top{
+  position: absolute;
+  right:300px;
+  top:40px;
+}
+
+.cloud-bot{
+  position: absolute;
+  left:250px;
+  bottom:300px;
+}
+
+
+
+
+
+
+
+/************************Middle-Container *************************************/
+
+.middle-container{
+background-color: white;
+}
+
+.skill-row{
+  line-height: 2;
+  margin:100px auto 100px;
+  text-align: left;
+  width: 50%;
+}
+
+.htmlcss-img {
+  float: left;
+  width: 25%;
+  margin-right:30px;
+}
+
+.python-img{
+  float: right;
+  width: 25%;
+  margin-left:30px;
+}
+
+.profile{
+  line-height: 2;
+  margin: 0 auto;
+  padding-top: 100px;
+  text-align: center;
+  width: 50%;
+
+}
+.profile-img{
+  width:25%;
+}
+
+.contact-me{
+  line-height: 3;
+  margin:50px auto 50px;
+  text-align: center;
+  width: 50%;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+/************************Bottom-Container *************************************/
+
+
+.bottom-container{
+background-color: #66BFBF;
+line-height: 2;
+padding:50px 0 20px;
+}
+
+.copy-right{
+  color: #EAF6F6;
+  font-size: 0.75em;
+  padding: 20px 0;
+}
+
+
+
+
+
+
+
+
+/************************ID Section *****************************************/
