@@ -29,6 +29,7 @@ h3{
 
 a{
   color:#11999E;
+  font-size:1.2em;
   font-family: 'Montserrat', sans-serif;
   margin:10px 20px;
   text-decoration: none;
@@ -36,6 +37,7 @@ a{
 }
 a:hover{
   color: #EAF6F6;
+  font-size:2em;
 }
 
 hr{
